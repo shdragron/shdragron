@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=shdragron&label=Profile%20views&color=0e75b6&style=flat" alt="shdragron" />  
 </p>
 
-- 🔭 Currently researching 3D Object Detection & BEV Perception at IRCV Lab  
+- 🔭 Currently researching Multi-Camera BEV Perception at IRCV Lab  
 - 🌱 Deepening my expertise in Computer Vision, Robotics & Deep Learning  
 - 📫 Feel free to reach out: **shdragron@hanyang.ac.kr**  
 
