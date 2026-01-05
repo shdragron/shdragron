@@ -78,18 +78,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shdragron&show_icons=true&locale=en&layout=compact" alt="shdragron" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shdragron&show_icons=true&locale=en" alt="shdragron" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shdragron" alt="shdragron" />
-</p>
-
----
