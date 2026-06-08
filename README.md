@@ -15,7 +15,7 @@
 
 ### 🔎 About me
 - 🔭 **Undergraduate Researcher @ IRCV Lab, Hanyang University**
-- 🧠 Research focus: **Multi-Camera BEV Perception** (surround-view understanding, geometry-aware perception)
+- 🧠 Research focus: **Multi-Camera BEV Perception**, ** Time Series Classification with Multiple-instance Learning ** (3D Vision, geometry-aware perception)
 - 🌱 Growing in **Computer Vision, Robotics, Deep Learning**
 - 📫 Contact: **shdragron@hanyang.ac.kr**
 
