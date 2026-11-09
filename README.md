@@ -1,7 +1,7 @@
 <h1 align="center">Giyong Moon</h1>
 
 <p align="center">
-  Undergraduate Researcher · <a href="https://ircv.hanyang.ac.kr/">IRCV Lab</a>, Hanyang University<br>
+  Researcher, Autonomous Driving Perception · <a href="https://ircv.hanyang.ac.kr/">IRCV Lab</a>, Hanyang University<br>
   Incoming M.S. student in Automotive Engineering, March 2027
 </p>
 
